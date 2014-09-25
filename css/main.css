@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Orienta|Roboto:500,400,300,900|Signika:700,600,400,300);
+html {
+  background: url(../images/bckgrnd_nofinger.jpg) no-repeat center center fixed;
+  font-family: 'Roboto', sans-serif; }
+
+h1, h2, h3 {
+  color: #E8E8E8;
+  font-weight: normal; }
+
+p {
+  font-family: signika; }
+
+a {
+  color: #400000; }
+
+.swatch {
+  width: 200px;
+  height: 40px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 3px;
+  vertical-align: baseline;
+  padding: 48px; }
+
+.dark {
+  color: white; }
+
+/*# sourceMappingURL=main.css.map */
